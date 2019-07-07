@@ -1,6 +1,5 @@
 #pragma once
 
-#pragma once
 #ifndef GAMEARROW_H
 #define GAMEARROW_H
 #include <vector>

@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 #ifndef FINDINGPATH_H
 #define FINDINGPATH_H
 
